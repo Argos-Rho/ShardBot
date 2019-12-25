@@ -7,5 +7,5 @@ client.once('ready', () =>{
   console.log('Ready!');
 });
 
-client.login('token-goes-here');
+client.login('');
 console.log('Token Accepted');
